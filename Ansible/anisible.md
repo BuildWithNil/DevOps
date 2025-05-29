@@ -3,13 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Week 9: Ansible Automation Challenge</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; }
-    h1, h2, h3 { color: #2c3e50; }
-    ul { margin-left: 20px; }
-    pre { background: #f4f4f4; padding: 10px; border-left: 3px solid #ccc; }
-    code { background: #f4f4f4; padding: 2px 4px; }
-  </style>
+
 </head>
 <body>
 
