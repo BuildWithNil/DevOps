@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-
-
-</head>
-<body>
-
   <h1>Week 9: Ansible Automation Challenge</h1>
   <p>This set of tasks is part of the <strong>90DaysOfDevOps</strong> challenge and focuses on solving real-world automation problems using Ansible. By completing these tasks on your designated Ansible project repository, you'll work on scenarios that mirror production environments and industry practices. The tasks cover installation, dynamic inventory management, robust playbook development, role organization, secure secret management, and orchestration of multi-tier applications. Your work will help you build practical skills and prepare for technical interviews.</p>
 
