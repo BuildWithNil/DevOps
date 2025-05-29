@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Week 9: Ansible Automation Challenge</title>
+
 
 </head>
 <body>
